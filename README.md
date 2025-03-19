@@ -25,8 +25,8 @@ Adigunasanjaya2005@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Description</td> <!--desc-->
+      <td valign="text-top">Description</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
