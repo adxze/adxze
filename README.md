@@ -11,7 +11,7 @@ Adigunasanjaya2005@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Smuggle Rush</a></th> <!--tittle-->
       <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
@@ -29,7 +29,7 @@ Adigunasanjaya2005@gmail.com
       <td valign="text-top">Description</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Hot Delivery is a 2D top-down arcade game where you deliver packages while evading the police. Maneuver fast, use power-ups, and find shortcuts to complete deliveries before getting caught!</a></td> <!--link1-->
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
     </tr>
     <tr>
