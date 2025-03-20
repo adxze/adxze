@@ -3,8 +3,8 @@ Hi, I'm Adiguna 👋
 **📌About** <br>
 I am an undergraduate student at BINUS University with a strong passion for Game Development, followed by interests in Web and Mobile Development. I enjoy building interactive experiences, exploring new technologies, and refining my skills to create efficient and user-centric applications. Constantly learning and adapting, I strive to stay at the forefront of software development and innovation.
 
-**📩Email** <br>
-Adigunasanjaya2005@gmail.com
+**🜸WebSite** <br>
+adigunasanjaya.com
 
 <br>
 
