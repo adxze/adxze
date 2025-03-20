@@ -29,7 +29,7 @@ Adigunasanjaya2005@gmail.com
       <td valign="text-top">Warp Runner is a 2D side-scrolling platformer focused on fluid movement and teleportation mechanics. Master precise jumps, swift dashes, and strategic teleportation to overcome obstacles, evade hazards, and navigate dynamic levels. Adapt quickly, chain teleport moves, and push your agility to the limit in this fast-paced adventure!/td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="[https://github.com/fajarnadril/Project-Stir](https://github.com/adxze/DeliveryRacing)">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir](https://github.com/adxze/DeliveryRacing)">Read More</a></td> <!--link1-->
       <td align="center"><a href="#">Read More</a></td> <!--link2-->
     </tr>
     <tr>
