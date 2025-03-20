@@ -12,7 +12,7 @@ Adigunasanjaya2005@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Smuggle Rush</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Warp Runner</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -25,8 +25,8 @@ Adigunasanjaya2005@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Hot Delivery is a 2D top-down arcade game where you deliver packages while evading the police. Maneuver fast, use power-ups, and find shortcuts to complete deliveries before getting caught!</td> <!--desc-->
-      <td valign="text-top">Description</td> <!--desc-->
+      <td valign="text-top">Smuggle Rush is a 2D top-down arcade game where you deliver packages while evading the police. Maneuver fast, use power-ups, and find shortcuts to complete deliveries before getting caught!</td> <!--desc-->
+      <td valign="text-top">Warp Runner is a 2D side-scrolling platformer focused on fluid movement and teleportation mechanics. Master precise jumps, swift dashes, and strategic teleportation to overcome obstacles, evade hazards, and navigate dynamic levels. Adapt quickly, chain teleport moves, and push your agility to the limit in this fast-paced adventure!/td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
