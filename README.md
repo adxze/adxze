@@ -39,6 +39,34 @@ adigunasanjaya.com
   </tbody>
 </table>
 
-
-<br>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Smuggle Rush</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Warp Runner</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="#" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="#2" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Description 3</td> <!--desc-->
+      <td valign="text-top">Description 4/td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir](https://github.com/adxze/DeliveryRacing)">Read More</a></td> <!--link1-->
+      <td align="center"><a href="#">Read More</a></td> <!--link2-->
+    </tr>
+    <tr>
+      <td align="center"><a href="#">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="#">Trailer</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table>
 
