@@ -29,13 +29,11 @@ adigunasanjaya.com
       <td valign="text-top">Warp Runner is a 2D side-scrolling platformer focused on fluid movement and teleportation mechanics. Master precise jumps, swift dashes, and strategic teleportation to overcome obstacles, evade hazards, and navigate dynamic levels. Adapt quickly, chain teleport moves, and push your agility to the limit in this fast-paced adventure!/td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir](https://github.com/adxze/DeliveryRacing)">Read More</a></td> <!--link1-->
-      <td align="center"><a href="#">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/adxze/DeliveryRacing">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/adxze/WarpPlatform">Read More</a></td> <!--link2-->
     </tr>
-    <tr>
-      <td align="center"><a href="#">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="#">Trailer</a></td> <!--link2-->
-    </tr>
+
+ 
   </tbody>
 </table>
 
@@ -60,12 +58,8 @@ adigunasanjaya.com
       <td valign="text-top">Physics Learner is an  educational game that seamlessly blends engaging side-scrolling platformer gameplay with interactive physics lessons and challenges. Players control a charming blue robot character navigating through cleverly designed levels while encountering and applying real physics concepts.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir](https://github.com/adxze/DeliveryRacing)">Read More</a></td> <!--link1-->
-      <td align="center"><a href="#">Read More</a></td> <!--link2-->
-    </tr>
-    <tr>
-      <td align="center"><a href="#">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="#">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/adxze/Old-Abyss">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/adxze/Physic-Learner">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -93,11 +87,9 @@ adigunasanjaya.com
         <td valign="text-top"> Gun n Run is a frenetic top-down bullet hell action RPG that combines fast-paced combat with strategic movement and resource management. Set in a mysterious techno-dungeon environment, players navigate through labyrinthine levels while facing waves of projectiles and enemies. </td> <!--desc-->
       </tr>
       <tr>
-        <td align="center"><a href="#">Read More</a></td> <!--link-->
+        <td align="center"><a href="https://github.com/adxze/Gun-N-Run">Read More</a></td> <!--link-->
       </tr>
-      <tr>
-        <td align="center"><a href="#">Trailer</a></td> <!--link-->
-      </tr>
+
     </tbody>
   </table>
 </div>
