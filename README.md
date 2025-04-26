@@ -42,8 +42,8 @@ adigunasanjaya.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Smuggle Rush</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Warp Runner</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Old Abyss</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Physic Learner</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
