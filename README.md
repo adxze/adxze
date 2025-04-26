@@ -69,4 +69,26 @@ adigunasanjaya.com
     </tr>
   </tbody>
 </table>
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="100%" align="center"><a>Your New Game Title</a></th> <!--title-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/adxze/adxze/blob/main/your-new-game.gif" alt="New Game" style="width:50%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Your new game description goes here. Describe the gameplay mechanics, unique features, and what makes this game special. This is a great place to highlight the core experience players will have and what sets it apart from other games.</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="#">Read More</a></td> <!--link-->
+    </tr>
+    <tr>
+      <td align="center"><a href="#">Trailer</a></td> <!--link-->
+    </tr>
+  </tbody>
+</table>
