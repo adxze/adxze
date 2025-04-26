@@ -49,7 +49,7 @@ adigunasanjaya.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="#" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/adxze/adxze/blob/main/1353.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="#2" alt="2" style="width:100%;height:auto;">
