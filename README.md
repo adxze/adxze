@@ -78,7 +78,7 @@ adigunasanjaya.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/adxze/adxze/blob/main/your-new-game.gif" alt="New Game" style="width:50%;height:auto;">
+        <img src="[https://github.com/adxze/adxze/blob/main/your-new-game.gif](https://github.com/adxze/adxze/blob/main/Run%26Gun.gif)" alt="New Game" style="width:50%;height:auto;">
       </td>
     </tr>
     <tr>
