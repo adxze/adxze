@@ -80,7 +80,7 @@ adigunasanjaya.com
   <table width="50%" style="margin: 0 auto;">
     <thead>
       <tr>
-        <th width="100%" align="center"><a>Your New Game Title</a></th> <!--title-->
+        <th width="100%" align="center"><a>GUN N RUN</a></th> <!--title-->
       </tr>
     </thead>
     <tbody>
@@ -90,7 +90,7 @@ adigunasanjaya.com
         </td>
       </tr>
       <tr>
-        <td valign="text-top">Your new game description goes here. Describe the gameplay mechanics, unique features, and what makes this game special. This is a great place to highlight the core experience players will have and what sets it apart from other games.</td> <!--desc-->
+        <td valign="text-top"> Gun n Run is a frenetic top-down bullet hell action RPG that combines fast-paced combat with strategic movement and resource management. Set in a mysterious techno-dungeon environment, players navigate through labyrinthine levels while facing waves of projectiles and enemies. </td> <!--desc-->
       </tr>
       <tr>
         <td align="center"><a href="#">Read More</a></td> <!--link-->
