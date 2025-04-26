@@ -57,7 +57,7 @@ adigunasanjaya.com
     </tr>
     <tr>
       <td valign="text-top">Dark Descent is a harrowing journey into the depths of forgotten catacombs, channeling the atmospheric tension and isometric action that defined the golden age of 1990s action RPGs. Drawing inspiration from classics like Diablo, this game embraces the raw, unforgiving spirit of early dungeon crawlers.</td> <!--desc-->
-      <td valign="text-top">Physics Adventurer is an innovative educational game that seamlessly blends engaging side-scrolling platformer gameplay with interactive physics lessons and challenges. Players control a charming blue robot character navigating through cleverly designed levels while encountering and applying real physics concepts.</td> <!--desc-->
+      <td valign="text-top">Physics Learner is an  educational game that seamlessly blends engaging side-scrolling platformer gameplay with interactive physics lessons and challenges. Players control a charming blue robot character navigating through cleverly designed levels while encountering and applying real physics concepts.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir](https://github.com/adxze/DeliveryRacing)">Read More</a></td> <!--link1-->
