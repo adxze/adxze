@@ -11,25 +11,41 @@ adigunasanjaya.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Smuggle Rush</a></th>
+      <th width="50%" align="center"><a>Warp Runner</a></th>
       <th width="50%" align="center"><a>Old Abyss</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/adxze/adxze/blob/main/0320.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/adxze/adxze/blob/main/Screenshot%202025-06-04%20at%2011.25.53.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/adxze/adxze/blob/main/1353.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Smuggle Rush is a 2D top-down arcade game where you deliver packages while evading the police. Maneuver fast, use power-ups, and find shortcuts to complete deliveries before getting caught!</td>
-      <td valign="text-top">Dark Descent is a harrowing journey into the depths of forgotten catacombs, channeling the atmospheric tension and isometric action that defined the golden age of 1990s action RPGs. Drawing inspiration from classics like Diablo, this game embraces the raw, unforgiving spirit of early dungeon crawlers.</td>
+      <td valign="top" style="text-align: left; vertical-align: top;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+          <li>Fast-paced movement with responsive controls for running, jumping, and teleporting</li>
+          <li>Teleportation is the core mechanic, allowing players to bypass hazards and reach new areas</li>
+          <li>Levels are designed with precision platforming and puzzle challenges</li>
+          <li>Encourages smooth movement chaining for a flow-based, speedrun experience</li>
+          <li>Dark pixel art style with a sci-fi atmosphere and minimalist UI</li>
+        </ul>
+      </td>
+      <td valign="top" style="text-align: left; vertical-align: top;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+          <li>Inspired by 90s dungeon crawlers like Diablo</li>
+          <li>Real-time combat with strategic movement</li>
+          <li>Challenging survival-focused gameplay</li>
+          <li>Dark catacombs filled with traps and enemies</li>
+          <li>Retro visuals with heavy atmosphere</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/adxze/DeliveryRacing">Read More</a></td>
+      <td align="center"><a href="https://github.com/adxze/WarpPlatform">Read More</a></td>
       <td align="center"><a href="https://github.com/adxze/Old-Abyss">Read More</a></td>
     </tr>
   </tbody>
@@ -38,8 +54,49 @@ adigunasanjaya.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>GUN N RUN</a></th>
+      <th width="50%" align="center"><a>Smuggle Rush</a></th>
       <th width="50%" align="center"><a>Physic Learner</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/adxze/adxze/blob/main/0320.gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/adxze/adxze/blob/main/PuzzleGames.gif" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" style="text-align: left; vertical-align: top;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+          <li>Built with sprite stacking for a 3D look using 2D pixel art</li>
+          <li>High-speed delivery gameplay with car chases and traffic evasion</li>
+          <li>Smooth car-like movement using velocity, acceleration, and turning mechanics</li>
+          <li>Tight controls and arcade pacing for fast, replayable sessions</li>
+        </ul>
+      </td>
+      <td valign="top" style="text-align: left; vertical-align: top;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+          <li>Combines platformer gameplay with real physics questions and mechanics</li>
+          <li>Players solve physics challenges to progress through levels</li>
+          <li>Interactive lessons are embedded into game actions and environments</li>
+          <li>Designed for learning momentum, force, and motion through play</li>
+          <li>Bright pixel art and a friendly robot character for wide accessibility</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/adxze/DeliveryRacing">Read More</a></td>
+      <td align="center"><a href="https://github.com/adxze/Physic-Learner">Read More</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="50%">
+  <thead>
+    <tr>
+      <th width="90%" align="center"><a>GUN N RUN</a></th>
     </tr>
   </thead>
   <tbody>
@@ -47,42 +104,20 @@ adigunasanjaya.com
       <td align="center">
         <img src="https://github.com/adxze/adxze/blob/main/Run%26Gun.gif" alt="New Game" style="width:100%;height:auto;">
       </td>
-      <td align="center">
-        <img src="https://github.com/adxze/adxze/blob/main/PuzzleGames.gif" alt="2" style="width:100%;height:auto;">
+    </tr>
+    <tr>
+      <td valign="top" style="text-align: left; vertical-align: top;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+          <li>Frenetic top-down bullet hell with waves of projectiles and enemies</li>
+          <li>Strategic movement and resource management are key to survival</li>
+          <li>Action RPG elements with character progression and equipment</li>
+          <li>Navigate through mysterious techno-dungeon environments</li>
+          <li>Fast-paced combat requiring quick reflexes and tactical positioning</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td valign="text-top"> Gun n Run is a frenetic top-down bullet hell action RPG that combines fast-paced combat with strategic movement and resource management. Set in a mysterious techno-dungeon environment, players navigate through labyrinthine levels while facing waves of projectiles and enemies. </td>
-      <td valign="text-top">Physics Learner is an  educational game that seamlessly blends engaging side-scrolling platformer gameplay with interactive physics lessons and challenges. Players control a charming blue robot character navigating through cleverly designed levels while encountering and applying real physics concepts.</td>
-    </tr>
-    <tr>
       <td align="center"><a href="https://github.com/adxze/Gun-N-Run">Read More</a></td>
-      <td align="center"><a href="https://github.com/adxze/Physic-Learner">Read More</a></td>
     </tr>
   </tbody>
 </table>
-
-<!-- Container div to center the table -->
-<div style="display: flex; justify-content: center;">
-  <!-- Table with fixed width to match your other tables -->
-  <table width="50%" style="margin: 0 auto;">
-    <thead>
-      <tr>
-        <th width="100%" align="center"><a>Warp Runner</a></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-            <img src="https://github.com/adxze/adxze/blob/main/Screenshot%202025-06-04%20at%2011.25.53.png" alt="1" style="width:100%;height:auto;">
-        </td>
-      </tr>
-      <tr>
-        <td valign="text-top">Warp Runner is a 2D side-scrolling platformer focused on fluid movement and teleportation mechanics. Master precise jumps, swift dashes, and strategic teleportation to overcome obstacles, evade hazards, and navigate dynamic levels. Adapt quickly, chain teleport moves, and push your agility to the limit in this fast-paced adventure!</td>
-      </tr>
-      <tr>
-        <td align="center"><a href="https://github.com/adxze/WarpPlatform">Read More</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
