@@ -18,7 +18,7 @@ adigunasanjaya.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/adxze/adxze/blob/main/Screenshot%202025-06-04%20at%2011.25.53.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/adxze/adxze/blob/main/0604(2).gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/adxze/adxze/blob/main/1353.gif" alt="2" style="width:100%;height:auto;">
