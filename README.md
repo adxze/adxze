@@ -104,6 +104,9 @@ I am an undergraduate student at BINUS University with a strong passion for Game
         </a>
       </td>
       <td align="center">
+        <a href="https://adxze.itch.io/2d-physic-games">
+          <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
+        </a><br>
         <a href="https://github.com/adxze/Physic-Learner">
           <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
         </a>
