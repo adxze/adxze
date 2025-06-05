@@ -45,7 +45,10 @@ adigunasanjaya.com
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/adxze/WarpPlatform">Read More</a></td>
+      <td align="center">
+        <a href="https://adxze.itch.io/tele-platfrom" style="display: inline-block; background-color: #ff6b35; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; margin-bottom: 8px; font-weight: bold;">▶ Play Game</a><br>
+        <a href="https://github.com/adxze/WarpPlatform">Read More</a>
+      </td>
       <td align="center"><a href="https://github.com/adxze/Old-Abyss">Read More</a></td>
     </tr>
   </tbody>
