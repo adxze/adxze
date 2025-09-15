@@ -27,11 +27,7 @@ I am an undergraduate student at BINUS University with a strong passion for Game
     <tr>
       <td valign="top">
         <ul>
-          <li>Fast-paced movement with responsive controls for running, jumping, and teleporting</li>
-          <li>Teleportation is the core mechanic, allowing players to bypass hazards and reach new areas</li>
-          <li>Levels are designed with precision platforming and puzzle challenges</li>
-          <li>Encourages smooth movement chaining for a flow-based, speedrun experience</li>
-          <li>Dark pixel art style with a sci-fi atmosphere and minimalist UI</li>
+        a 2D platformer where you unlock new abilities and navigate levels using teleportation mechanics. Players progress through stages by using strategic teleportation between portals to solve platforming challenges.
         </ul>
       </td>
       <td valign="top">
