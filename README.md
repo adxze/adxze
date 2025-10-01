@@ -168,14 +168,14 @@ I am an undergraduate student at BINUS University with a strong passion for Game
       <td valign="top">
         <p>
           An app that detects DDoS attacks by monitoring network traffic on a main machine, sending the data via a custom API to a Railway-hosted server, and classifying each connection as normal or DDoS using a trained AI model (.pkl) that I built.<br><br>
-          <strong>Duration:</strong> 1 month<br> <br>
+          <strong>Duration:</strong> 1 month<br><br>
           <strong>Contributions:</strong> Front & Back Developer, API Developer
         </p>
       </td>
       <td valign="top">
         <p>
           Description 2.<br><br>
-          <strong>Duration:</strong> 2 weeks<br>
+          <strong>Duration:</strong> 2 weeks<br><br>
           <strong>Contributions:</strong> Frontend Developer, Designer
         </p>
       </td>
@@ -185,11 +185,11 @@ I am an undergraduate student at BINUS University with a strong passion for Game
         <a href="https://github.com/adxze/MobileDdosApp">
           <img src="https://img.shields.io/badge/📖_Read_More_(Mobile_App)-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More (Mobile App)">
         </a>
-        <a href="https://github.com/adxze/MobileDdosApp">
+        <br>
+        <a href="https://github.com/adxze/DdosApiServer">
           <img src="https://img.shields.io/badge/📖_Read_More_(API)-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More (API)">
         </a>
       </td>
-      
       <td align="center">
         <a href="-Link">
           <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
