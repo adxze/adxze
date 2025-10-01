@@ -144,4 +144,52 @@ I am an undergraduate student at BINUS University with a strong passion for Game
     </tr>
   </tbody>
 </table>
+
+<br>
+<h2 align = "center">Other Project Beside Games</h2>
+<br>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Tittle Table 1</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Tittle Table 2</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="393" height="852" alt="unnamed" src="Image 1" />
+      </td>
+      <td align="center">
+        <img width="342" height="688" alt="image 2" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">
+  Description 1
+  <br><br>
+  <strong>Duration:</strong> 1 month  
+  <br><br>
+  <strong>Contributions:</strong><br>
+  -Frontend Developer
+</td>
+      <td valign="text-top">
+  Description 2.<br><br>
+  <strong>Duration:</strong> 2 weeks<br><br>
+  <strong>Contributions:</strong><br>
+  -Frontend Developer<br>
+  -Designer
+</td>
+    <tr>
+      <td align="center"><a href="https://github.com/AlbertNugroho/CanteenApp">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/AlbertNugroho/ProjectLEC">Read More</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table> 
+<br>
+<h2 align = "center">I'm Also a 3D artist</h2>
+<h3 align = "center">Check out <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">my works</a></h3>
+<br>
+
+  
 </div>
