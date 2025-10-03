@@ -11,7 +11,7 @@ I am an undergraduate student at BINUS University with a strong passion for Game
   <thead>
     <tr>
       <th width="50%" align="center"><strong>Warp Runner</strong></th>
-      <th width="50%" align="center"><strong>Old Abyss</strong></th>
+      <th width="50%" align="center"><strong>Zumi The Slime</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -20,7 +20,7 @@ I am an undergraduate student at BINUS University with a strong passion for Game
         <img src="https://github.com/adxze/adxze/blob/main/0604(2).gif" alt="Warp Runner" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/adxze/adxze/blob/main/1353.gif" alt="Old Abyss" width="100%">
+        <img src="https://github.com/adxze/adxze/blob/main/ZumiGif/ZumiMain.gif" alt="Zumi The Slime" width="100%">
       </td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ I am an undergraduate student at BINUS University with a strong passion for Game
       </td>
       <td valign="top">
         <p>
-          A dungeon crawler inspired by classics like Diablo, featuring real-time combat, survival-focused gameplay, and retro visuals set in dark catacombs filled with traps and enemies.
+          a 3D action adventure game where players control a slime character with unique shooting mechanics inspired by Zuma gameplay. Navigate through challenging levels, defeat enemies using ball matching mechanics along a spline and face off against powerful bosses.
         </p>
       </td>
     </tr>
@@ -45,7 +45,56 @@ I am an undergraduate student at BINUS University with a strong passion for Game
         </a>
       </td>
       <td align="center">
+        <a href="https://alerica.itch.io/127-liminal-collective-student-zumi-the-slime">
+          <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
+        </a><br>
+        <a href="https://github.com/Alerica/Zumi-The-Slime">
+          <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><strong>Old Abyss</strong></th>
+      <th width="50%" align="center"><strong>Greed Dungeon</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/adxze/adxze/blob/main/1353.gif" alt="Old Abyss" width="100%">
+      </td>
+      <td align="center">
+        <img src="https://github.com/adxze/adxze/blob/main/GDpic/Screenshot%202025-10-03%20at%2015.40.16.png" alt="Greed Dungeon" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <p>
+          A dungeon crawler inspired by classics like Diablo, featuring real-time combat, survival-focused gameplay, and retro visuals set in dark catacombs filled with traps and enemies.
+        </p>
+      </td>
+      <td valign="top">
+        <p>
+          a strategic card based roguelike where players battle through increasingly difficult stages using a deck of powerful cards. Manage your energy, build devastating combos, and survive. Choose between retreating with your rewards or pushing deeper into the dungeon for greater treasures. Every decision matters.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/adxze/Old-Abyss">
+          <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://alerica.itch.io/greed-dungeon">
+          <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
+        </a><br>
+        <a href="https://github.com/Alerica/Greed-Dungeon">
           <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
         </a>
       </td>
@@ -99,59 +148,8 @@ I am an undergraduate student at BINUS University with a strong passion for Game
   </tbody>
 </table>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><strong>Zumi The Slime</strong></th>
-      <th width="50%" align="center"><strong>Greed Dungeon</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/adxze/adxze/blob/main/ZumiGif/ZumiMain.gif"alt="Zumi The Slime" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/adxze/adxze/blob/main/GDpic/Screenshot%202025-10-03%20at%2015.40.16.png" width="100%">
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <p>
-          a 3D action adventure game where players control a slime character with unique shooting mechanics inspired by Zuma gameplay. Navigate through challenging levels, defeat enemies using ball matching mechanics along a spline and face off against powerful bosses.
-        </p>
-      </td>
-      <td valign="top">
-        <p>
-          a strategic card based roguelike where players battle through increasingly difficult stages using a deck of powerful cards. Manage your energy, build devastating combos, and survive. Choose between retreating with your rewards or pushing deeper into the dungeon for greater treasures. Every decision matters.
-        </p>
-      </td>
-      <p>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://alerica.itch.io/127-liminal-collective-student-zumi-the-slime">
-          <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
-        </a><br>
-        <a href="https://github.com/Alerica/Zumi-The-Slime">
-          <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
-        </a>
-      </td>
-      <!-- <td></td> -->
-      <td align="center">
-        <a href="https://alerica.itch.io/greed-dungeon">
-          <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
-        </a><br>
-        <a href="https://github.com/Alerica/Greed-Dungeon">
-          <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
-
-<h2 align="center">Other Project Beside Games</h2>
+<h2 align="center">Other Projects Beside Games</h2>
 <br>
 
 <table width="100%">
