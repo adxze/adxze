@@ -7,7 +7,6 @@ I am an undergraduate student at BINUS University with a strong passion for Game
 [![Website](https://img.shields.io/badge/🌐_adigunasanjaya.com-4285F4?style=for-the-badge&logoColor=white)](https://adigunasanjaya.com)
 
 <br>
-
 <table width="100%">
   <thead>
     <tr>
@@ -26,18 +25,14 @@ I am an undergraduate student at BINUS University with a strong passion for Game
     </tr>
     <tr>
       <td valign="top">
-        <ul>
-        a 2D platformer where you unlock new abilities and navigate levels using teleportation mechanics. Players progress through stages by using strategic teleportation between portals to solve platforming challenges.
-        </ul>
+        <p>
+          A 2D platformer where you unlock new abilities and navigate levels using teleportation mechanics. Players progress by strategically teleporting between portals to solve platforming challenges.
+        </p>
       </td>
       <td valign="top">
-        <ul>
-          <li>Inspired by 90s dungeon crawlers like Diablo</li>
-          <li>Real-time combat with strategic movement</li>
-          <li>Challenging survival-focused gameplay</li>
-          <li>Dark catacombs filled with traps and enemies</li>
-          <li>Retro visuals with heavy atmosphere</li>
-        </ul>
+        <p>
+          A dungeon crawler inspired by classics like Diablo, featuring real-time combat, survival-focused gameplay, and retro visuals set in dark catacombs filled with traps and enemies.
+        </p>
       </td>
     </tr>
     <tr>
@@ -76,21 +71,14 @@ I am an undergraduate student at BINUS University with a strong passion for Game
     </tr>
     <tr>
       <td valign="top">
-        <ul>
-          <li>Built with sprite stacking for a 3D look using 2D pixel art</li>
-          <li>High-speed delivery gameplay with car chases and traffic evasion</li>
-          <li>Smooth car-like movement using velocity, acceleration, and turning mechanics</li>
-          <li>Tight controls and arcade pacing for fast, replayable sessions</li>
-        </ul>
+        <p>
+          An arcade-style delivery game built with sprite stacking for a 3D look. Features car chases, tight driving controls, and replayable high-speed sessions with traffic evasion mechanics.
+        </p>
       </td>
       <td valign="top">
-        <ul>
-          <li>Combines platformer gameplay with real physics questions and mechanics</li>
-          <li>Players solve physics challenges to progress through levels</li>
-          <li>Interactive lessons are embedded into game actions and environments</li>
-          <li>Designed for learning momentum, force, and motion through play</li>
-          <li>Bright pixel art and a friendly robot character for wide accessibility</li>
-        </ul>
+        <p>
+          A learning game that combines platformer challenges with real physics problems. Players solve momentum and force-based puzzles while exploring bright pixel art worlds with a friendly robot guide.
+        </p>
       </td>
     </tr>
     <tr>
@@ -111,11 +99,11 @@ I am an undergraduate student at BINUS University with a strong passion for Game
   </tbody>
 </table>
 
-<div align="center">
-<table width="50%">
+<table width="100%">
   <thead>
     <tr>
-      <th width="90%" align="center"><strong>GUN N RUN</strong></th>
+      <th width="50%" align="center"><strong>GUN N RUN</strong></th>
+      <th width="50%" align="center"><strong></strong></th>
     </tr>
   </thead>
   <tbody>
@@ -123,17 +111,17 @@ I am an undergraduate student at BINUS University with a strong passion for Game
       <td align="center">
         <img src="https://github.com/adxze/adxze/blob/main/Run%26Gun.gif" alt="GUN N RUN" width="100%">
       </td>
+      <td align="center">
+        <!-- empty column for consistent width -->
+      </td>
     </tr>
     <tr>
       <td valign="top">
-        <ul>
-          <li>Frenetic top-down bullet hell with waves of projectiles and enemies</li>
-          <li>Strategic movement and resource management are key to survival</li>
-          <li>Action RPG elements with character progression and equipment</li>
-          <li>Navigate through mysterious techno-dungeon environments</li>
-          <li>Fast-paced combat requiring quick reflexes and tactical positioning</li>
-        </ul>
+        <p>
+          A frenetic top-down bullet hell with waves of enemies and projectiles. Players must survive using fast reflexes, tactical movement, and RPG-style progression across techno-dungeon levels.
+        </p>
       </td>
+      <td valign="top"></td>
     </tr>
     <tr>
       <td align="center">
@@ -141,9 +129,11 @@ I am an undergraduate student at BINUS University with a strong passion for Game
           <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
         </a>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
+
 
 <h2 align="center">Other Project Beside Games</h2>
 <br>
