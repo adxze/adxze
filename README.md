@@ -151,8 +151,8 @@ I am an undergraduate student at BINUS University with a strong passion for Game
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><strong>Tittle Table 1</strong></th>
-      <th width="50%" align="center"><strong>Tittle Table 2</strong></th>
+      <th width="50%" align="center"><strong> Mobile Ddos Detection using Ai </strong></th>
+      <th width="50%" align="center"><strong>Personal Web (On Progress)</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -161,7 +161,7 @@ I am an undergraduate student at BINUS University with a strong passion for Game
         <img src="https://github.com/adxze/adxze/blob/main/DDoS%20Detection/Mobile%202.png" alt="Image 1" width="100%">
       </td>
       <td align="center">
-        <img src="image2-link" width="100%">
+        <img src="https://github.com/adxze/adxze/blob/main/WebGif/1003.gif" alt="Image 2" width="100%">
       </td>
     </tr>
     <tr>
@@ -174,9 +174,9 @@ I am an undergraduate student at BINUS University with a strong passion for Game
       </td>
       <td valign="top">
         <p>
-          Description 2.<br><br>
+          A personal web.<br><br>
           <strong>Duration:</strong> 2 weeks<br><br>
-          <strong>Contributions:</strong> Frontend Developer, Designer
+          <strong>Contributions:</strong> Frontend & Backedn Developer, Designer
         </p>
       </td>
     </tr>
@@ -186,13 +186,13 @@ I am an undergraduate student at BINUS University with a strong passion for Game
           <img src="https://img.shields.io/badge/📖_Read_More_(Mobile_App)-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More (Mobile App)">
         </a>
         <br>
-        <a href="https://github.com/adxze/DdosApiServer">
+        <a href="https://github.com/adxze/LiveDDOSDetectionAPI">
           <img src="https://img.shields.io/badge/📖_Read_More_(API)-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More (API)">
         </a>
       </td>
       <td align="center">
-        <a href="-Link">
-          <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
+        <a href="https://adigunasanjaya.com">
+          <img src="https://img.shields.io/badge/adigunasanjaya.com_(On_Progress)-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="adigunasanjaya.com (On Progress)">
         </a>
       </td>
     </tr>
