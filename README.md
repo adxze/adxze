@@ -102,14 +102,14 @@ I am an undergraduate student at BINUS University with a strong passion for Game
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><strong>GUN N RUN</strong></th>
+      <th width="50%" align="center"><strong>Zumi The Slime</strong></th>
       <th width="50%" align="center"><strong></strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/adxze/adxze/blob/main/Run%26Gun.gif" alt="GUN N RUN" width="100%">
+        <img src="https://github.com/adxze/adxze/blob/main/ZumiGif/ZumiMain.gif"alt="Zumi The Slime" width="100%">
       </td>
       <td align="center">
         <!-- empty column for consistent width -->
@@ -118,14 +118,17 @@ I am an undergraduate student at BINUS University with a strong passion for Game
     <tr>
       <td valign="top">
         <p>
-          A frenetic top-down bullet hell with waves of enemies and projectiles. Players must survive using fast reflexes, tactical movement, and RPG-style progression across techno-dungeon levels.
+          a 3D action adventure game where players control a slime character with unique shooting mechanics inspired by Zuma gameplay. Navigate through challenging levels, defeat enemies using ball matching mechanics along a spline and face off against powerful bosses.
         </p>
       </td>
       <td valign="top"></td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/adxze/Gun-N-Run">
+        <a href="https://alerica.itch.io/127-liminal-collective-student-zumi-the-slime">
+          <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
+        </a><br>
+        <a href="https://github.com/Alerica/Zumi-The-Slime">
           <img src="https://img.shields.io/badge/📖_Read_More-333333?style=for-the-badge&logo=github&logoColor=white" alt="Read More">
         </a>
       </td>
